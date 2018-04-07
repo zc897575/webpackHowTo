@@ -7,7 +7,7 @@
 
 ###### 接下来我们简单为大家介绍 Webpack4 的安装与使用。
 # 安装 Webpack4
-###### ++在安装Webpack前，你本地环境需要支持==node.js==++
+###### 在安装Webpack前，你本地环境需要支持 node.js
 ###### 由于npm安装速度慢，使用淘宝镜像及其命令cnpm，安装使用介绍参照：[使用淘宝NPM镜像](https://www.runoob.com/nodejs/nodejs-npm.html)
 ###### 使用cnpm安装webpack：
 
